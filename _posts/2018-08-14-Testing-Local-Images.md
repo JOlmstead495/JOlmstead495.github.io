@@ -3,7 +3,7 @@ layout: post
 title: Zach's Test Post
 ---
 
-This is a test post. 
+This is a test post. Hello world. 
 
 To make a post, you must follow the naming convention shown for this file,
 with the data as the first part of the file name, seperated by dashes. Then
